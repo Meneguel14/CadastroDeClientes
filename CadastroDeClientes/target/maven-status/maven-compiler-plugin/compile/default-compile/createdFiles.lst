@@ -1,0 +1,7 @@
+util\Endereco.class
+util\Buscador$EnderecoInterno.class
+util\Clientes.class
+com\mycompany\cadastrodeclientes\App.class
+com\mycompany\cadastrodeclientes\PrimaryController.class
+util\Buscador.class
+com\mycompany\cadastrodeclientes\SecondaryController.class
